@@ -1,6 +1,5 @@
-# Assignment 02
-This is a project which processes COVID19 patient data and ultimately displays a map in which deceased and survived patients are distinguished 
-and a plot in which the difference between the values of certain lab results of deceased vs survived patients is shown.
+# Assignment 03
+This is a project which processes data from sleep patterns of persons, performs statistical analysis on them and draws conclusions.
 
 ## Table of contents
 - [Packages](#packages)
