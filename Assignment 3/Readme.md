@@ -40,15 +40,14 @@ The necessary information about how to use this IPYNB file is included in the fi
 
 ## Screenshots
 
+**Heatmap**
+
 Example output of the heatmap:
 
 ![Plot](https://github.com/josvandam0/Programming-2/blob/main/Assignment%203/Heatmap.png)
 
-**Heatmap**
 
 Example output of the jitterplot:
-
-![Plot](https://github.com/josvandam0/Programming-2/blob/main/Assignment%203/Heatmap.png)
 
 **Jitterplot**
 
