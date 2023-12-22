@@ -42,23 +42,23 @@ The necessary information about how to use this IPYNB file is included in the fi
 
 Example output of the heatmap:
 
-![Plot](https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20plot.png)
+![Plot](https://github.com/josvandam0/Programming-2/blob/main/Assignment%203/Heatmap.png)
 
 **Heatmap**
 
 Example output of the jitterplot:
 
-![Plot](https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20plot.png)
+![Plot](https://github.com/josvandam0/Programming-2/blob/main/Assignment%203/Heatmap.png)
 
-**Map**
+**Jitterplot**
 
-![Plot](https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20map.png)
+![Jitterplot](https://github.com/josvandam0/Programming-2/blob/main/Assignment%203/Jitterplot.png)
 
 Example output of the boxplot1
 
 **Boxplot1**
 
-![Plot](https://raw.githubusercontent.com/josvandam0/Assignment2-Programming-II/main/example%20plot.png)
+![Plot](https://github.com/josvandam0/Programming-2/blob/main/Assignment%203/Boxplot%201.png)
 
 Example output of the boxplot2
 
