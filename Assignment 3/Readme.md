@@ -63,7 +63,7 @@ Example output of the boxplot2
 
 **Boxplot2**
 
-![Plot2](https://github.com/josvandam0/Programming-2/blob/main/Assignment%203/Boxplot%201.png)
+![Plot2](https://github.com/josvandam0/Programming-2/blob/main/Assignment%203/Boxplot%202.png)
 
 ## References
 - Some statistical functions are obtained from Emile Apol
